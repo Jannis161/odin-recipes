@@ -10,16 +10,27 @@ h1 {
 
 p {
     font-family: 'Verdana', sans-serif;
-    color: #666;
+    color: #353535;
     line-height: 1.6;
 }
 
 img {
     max-width: 100%;
     height: auto;
+    margin: 5px;
 }
 
 a {
     margin: 5px;
     display: block;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #b8cdcd;
+}
+
+.recipe {
+    margin: 5px;
 }
